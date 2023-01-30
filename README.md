@@ -2,6 +2,7 @@
 - 👀 I’m interested in iOS development.
 - 🌱 I’m currently learning Swift and SwiftUI Framework.
 - 💞️ I’m looking to collaborate on ...
+- Mobile development: Swift, iOS
 - 📫 How to reach me ...
 
 <!---
